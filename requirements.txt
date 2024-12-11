@@ -1,0 +1,6 @@
+pandas_ta
+streamlit
+aiohttp
+pandas
+numpy
+requests
